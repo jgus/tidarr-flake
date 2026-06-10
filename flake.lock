@@ -94,11 +94,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1780993023,
-        "narHash": "sha256-J4aBFewpya1renYqUfkKwnzvtisfFE3VXpn309oB5tc=",
+        "lastModified": 1781080041,
+        "narHash": "sha256-9D6tdQovje5bV8DwWREfa1lWG/N9Crk8ZVC++7TKJQ0=",
         "owner": "jgus",
         "repo": "tiddl-flake",
-        "rev": "e7ae8d7639606a8e5b9962285cbb261fb72b47d9",
+        "rev": "e8ab447e922b8e1c0ef8ca41e409763bf18c7eca",
         "type": "github"
       },
       "original": {
